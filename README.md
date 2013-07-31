@@ -40,4 +40,4 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 [3]: http://wbond.net/sublime_packages/package_control/
 [4]: http://wbond.net/sublime_packages/package_control/settings/
 [5]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-[6]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Zissou.tmTheme/&title=Zissou&20Color%20Schemes&description=Color%20scheme%20inspired%20by%20the%20Wes%20Anderson%20movie%20The%20Life%20Aquatic%20with%20Steve%20Zissou&language=en_GB&tags=zissou,life%20aquatic,wes%20anderson,color%20scheme,theme,syntax%20highlight,style-sheets&hidden=0&category=software
+[6]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Paraiso.tmTheme/&title=Zissou&20Color%20Schemes&description=A%29color%29scheme%29inspired%29by%29the%29colorful%29illustrations%29by%29Brazilian%29artist%29Rubens%29LP&language=en_GB&tags=textmate,sublime%20text,color%20scheme,theme,syntax%20highlight,style-sheets&hidden=0&category=software
