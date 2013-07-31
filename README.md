@@ -1,4 +1,4 @@
-# Brasileiro for TextMate & Sublime Text
+# Paraíso for TextMate & Sublime Text
 
 A color scheme inspired by the colorful illustrations by Brazilian artist [Rubens LP][1].
 
@@ -17,7 +17,7 @@ A color scheme inspired by the colorful illustrations by Brazilian artist [Ruben
 
 1. Make sure you already have [Package Control][3] installed
 2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
-3. Select *Brasileiro Color Scheme* and press `Enter`
+3. Select *Paraíso Color Scheme* and press `Enter`
 
 With [auto_upgrade][4] enabled, Package Control will keep all installed packages up-to-date!
 
@@ -36,7 +36,7 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 [<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />][6]
 
 [1]: http://www.rubenslp.com.br/
-[2]: https://raw.github.com/idleberg/Brasileiro.tmTheme/master/preview/screenshot.gif
+[2]: https://raw.github.com/idleberg/Paraiso.tmTheme/master/preview/screenshot.gif
 [3]: http://wbond.net/sublime_packages/package_control/
 [4]: http://wbond.net/sublime_packages/package_control/settings/
 [5]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
