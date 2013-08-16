@@ -23,7 +23,7 @@ With [auto_upgrade][4] enabled, Package Control will keep all installed packages
 
 #### Manual Installation
 
-1. Download a `.tmTheme` file
+1. Download a `.tmTheme` file of choice
 2. *Browse Packages* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
 3. Copy the `.tmTheme` file to `Packages\User`
 
