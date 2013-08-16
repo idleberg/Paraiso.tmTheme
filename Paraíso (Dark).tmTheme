@@ -20,7 +20,7 @@
 	<key>comment</key>
 	<string>https://github.com/idleberg/Paraiso.tmTheme</string>
 	<key>semanticClass</key>
-	<string>paraiso.dark</string>
+	<string>theme.paraiso.dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
