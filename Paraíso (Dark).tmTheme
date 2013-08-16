@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
 
-    Name:       Paraíso (Dark)
-    Author:     Jan T. Sott (http://github.com/idleberg)
+	Name:		Paraíso (dark)
+    Author:		Jan T. Sott
+    URL:		https://github.com/idleberg/Paraiso.tmTheme
 
-    Color scheme by Jan T. Sott (https://github.com/idleberg/Paraiso.tmTheme)
     Inspired by the art of Rubens LP (http://www.rubenslp.com.br)
     Base16 template for TextMate by Chris Kempson (https://github.com/chriskempson)
 
 -->
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>author</key>
 	<string>Jan T. Sott</string>
 	<key>name</key>
-	<string>Paraíso (Dark)</string>
+	<string>Paraíso (dark)</string>
 	<key>comment</key>
 	<string>https://github.com/idleberg/Paraiso.tmTheme</string>
 	<key>semanticClass</key>
