@@ -33,14 +33,13 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 
 ## Donate
 
-[<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />][6]
+You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Paraiso.tmTheme) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
 
 [1]: http://www.rubenslp.com.br/
 [2]: https://raw.github.com/idleberg/Paraiso.tmTheme/master/preview/screenshot.gif
 [3]: http://wbond.net/sublime_packages/package_control/
 [4]: http://wbond.net/sublime_packages/package_control/settings/
 [5]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-[6]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Paraiso.tmTheme/&title=Paraiso%20Color%20Scheme&description=A%29color%29scheme%29inspired%29by%29the%29colorful%29illustrations%29by%29Brazilian%29artist%29Rubens%29LP&language=en_GB&tags=textmate,sublime%20text,color%20scheme,theme,syntax%20highlight,style-sheets&hidden=0&category=software
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/paraiso.tmtheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
