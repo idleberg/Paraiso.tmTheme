@@ -33,4 +33,17 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 
 ## Donate
 
+<<<<<<< HEAD
 You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Paraiso.tmTheme) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+=======
+You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Paraiso.tmTheme) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+
+[1]: http://www.rubenslp.com.br/
+[2]: https://raw.github.com/idleberg/Paraiso.tmTheme/master/preview/screenshot.gif
+[3]: http://wbond.net/sublime_packages/package_control/
+[4]: http://wbond.net/sublime_packages/package_control/settings/
+[5]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/paraiso.tmtheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+>>>>>>> 86ea1593193e6de4c220891b808e354040327a4d
