@@ -1,4 +1,4 @@
-# Paraíso for TextMate & Sublime Text
+# Paraíso for TextMate & Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/Paraiso.tmTheme.png)](http://travis-ci.org/idleberg/Paraiso.tmTheme)
 
 A color scheme inspired by the colorful illustrations by Brazilian artist [Rubens LP](http://www.rubenslp.com.br/).
 
